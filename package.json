@@ -1,0 +1,12 @@
+{
+  "name": "pronosticador7",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
